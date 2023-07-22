@@ -33,8 +33,8 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![screencapture-localhost-3000-2023-07-22-20_12_03](https://github.com/lienadochuko/newsletter/assets/66309753/b026f807-1c8b-48cf-9111-2ef3d83105e0)
 
-![](./screenshot.jpg)
 
 
 ### Links
