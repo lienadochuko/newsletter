@@ -11,13 +11,6 @@ function App() {
         <Route exact path='/Thankyou' element={<Thankyou />} />
       </Routes>
     </Router>
-    //   export default {
-    //     primary: "#FF6257",
-    //     dark: '#242742',
-    //     charcoal: '#36384E',
-    //     grey: '#9294A0',
-    //     white: '#FFFFFF',
-    // };
   );
 }
 
