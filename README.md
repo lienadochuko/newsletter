@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [newsletter--Code](https://github.com/lienadochuko/newsletter)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [danielnewsletter](https://danielnewsletter.netlify.app/)
 
 ## My process
 
