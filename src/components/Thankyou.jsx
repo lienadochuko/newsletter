@@ -19,7 +19,7 @@ const Thankyou = () => {
                     Please open it and click 
                     the button inside to confirm your subscription.
                 </p>
-                <button className="button1" onClick={handlebutton}>Dimiss message</button>
+                <button className="button1" onClick={handlebutton}>Dismiss message</button>
             </div>
         </div>
     )
