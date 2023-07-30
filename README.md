@@ -47,6 +47,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- React Hooks
 - [React](https://reactjs.org/) - JS libraryk
 - [Styled Components](https://styled-components.com/) - For styles
 
